@@ -1,1 +1,3 @@
 A is a friend of B
+
+B is a friend of C
